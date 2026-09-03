@@ -33,11 +33,12 @@ Projet de Machine Learning visant à prédire si un patient est diabétique
 | **AdaBoost** | **77.3%** | **69.4%** | **63.0%** | **66.0%** |
 
 ## Structure du projet
+```text
 diabetes_prediction/
-├── 📄 diabetes_prediction.ipynb
-├── 📄 DATA_DIABETE.csv
-├── 📄 diabetes_history.csv
-└── 📄 README.md
+├── 📄 diabetes_prediction.ipynb   # Notebook complet avec le code et les analyses
+├── 📄 DATA_DIABETE.csv            # Dataset utilisé pour l'entraînement
+├── 📄 diabetes_history.csv        # Historique des prédictions (généré par l'app)
+└── 📄 README.md                   # Ce fichier
 
 ## Comment utiliser
 1. Ouvrir le notebook dans Google Colab ou Jupyter
@@ -47,3 +48,4 @@ diabetes_prediction/
 ## Auteur
 Iben Radhouane Eya 
 https://www.linkedin.com/in/eya-iben-radhouane-5b74a525b/
+eya.ibenradhouane@polytechnicien.tn
