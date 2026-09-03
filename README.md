@@ -53,13 +53,13 @@ eya.ibenradhouane@polytechnicien.tn
 ## Aperçu du Système
 
 ### Interface de prédiction
-![Interface principale](CAP3.png)
-![Interface principale](CAP4.png)
-![Interface principale](cap5.png)
-![Interface principale](cap6.png)
+![Interface principale](./CAP3.png)
+![Interface principale](./CAP4.png)
+![Interface principale](./cap5.png)
+![Interface principale](./cap6.png)
 
 ### Résultats
-![Résultats du modèle](cap7.png)
-![Résultats du modèle](cap10.png)
-![Résultats du modèle](CAP8.png)
-![Résultats du modèle](CAP9.png)
+![Résultats du modèle](./cap7.png)
+![Résultats du modèle](./cap10.png)
+![Résultats du modèle](./CAP8.png)
+![Résultats du modèle](./CAP9.png)
