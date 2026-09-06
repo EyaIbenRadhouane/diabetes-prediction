@@ -50,19 +50,18 @@ Iben Radhouane Eya
 https://www.linkedin.com/in/eya-iben-radhouane-5b74a525b/
 eya.ibenradhouane@polytechnicien.tn
 
-### 🖥️ Interface de prédiction
 
-![Interface principale](.diabetes-prediction
-/CAP3.png)
+## 🖥️ Interface de prédiction
 
-![Interface de prédiction](.diabetes-prediction
-/CAP4.png)
+![Interface principale](./CAP3.png)
+
+![Interface de prédiction](./CAP4.png)
 
 ![Formulaire de prédiction](./cap5.png)
 
 ![Résultat de l'interface](./cap6.png)
 
-### 📈 Résultats du modèle
+## 📈 Résultats du modèle
 
 ![Résultats du modèle](./cap7.png)
 
