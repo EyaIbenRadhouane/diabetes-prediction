@@ -23,7 +23,7 @@ Projet de Machine Learning visant à prédire si un patient est diabétique
 - Scikit-learn
 - Gradio
 
-##  Résultats
+## Résultats
 | Modèle | Accuracy | Precision | Recall | F1-Score |
 |--------|----------|-----------|--------|----------|
 | Decision Tree | 69.5% | 55.9% | 61.1% | 58.4% |
@@ -33,12 +33,12 @@ Projet de Machine Learning visant à prédire si un patient est diabétique
 | **AdaBoost** | **77.3%** | **69.4%** | **63.0%** | **66.0%** |
 
 ## Structure du projet
-```text
-diabetes_prediction/
-├── 📄 diabetes_prediction.ipynb   # Notebook complet avec le code et les analyses
-├── 📄 DATA_DIABETE.csv            # Dataset utilisé pour l'entraînement
-├── 📄 diabetes_history.csv        # Historique des prédictions (généré par l'app)
-└── 📄 README.md                   # Ce fichier
+
+    diabetes_prediction/
+    ├── diabetes_prediction.ipynb   # Notebook complet avec le code et les analyses
+    ├── DATA_DIABETE.csv            # Dataset utilisé pour l'entraînement
+    ├── diabetes_history.csv        # Historique des prédictions (généré par l'app)
+    └── README.md                   # Ce fichier
 
 ## Comment utiliser
 1. Ouvrir le notebook dans Google Colab ou Jupyter
@@ -47,26 +47,43 @@ diabetes_prediction/
 
 ## Auteur
 Iben Radhouane Eya 
-https://www.linkedin.com/in/eya-iben-radhouane-5b74a525b/
-eya.ibenradhouane@polytechnicien.tn
+- LinkedIn: https://www.linkedin.com/in/eya-iben-radhouane-5b74a525b/
+- Email: eya.ibenradhouane@polytechnicien.tn
 
+---
 
 ## 🖥️ Interface de prédiction
 
-![Interface principale](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/CAP3.png)
+<div align="center">
+  <img src="CAP3.png" alt="Interface principale" width="600">
+</div>
 
-![Interface de prédiction](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/CAP4.png)
+<div align="center">
+  <img src="CAP4.png" alt="Interface de prédiction" width="600">
+</div>
 
-![Formulaire](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/cap5.png)
+<div align="center">
+  <img src="cap5.png" alt="Formulaire" width="600">
+</div>
 
-![Prédiction](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/cap6.png)
+<div align="center">
+  <img src="cap6.png" alt="Prédiction" width="600">
+</div>
 
 ## 📈 Résultats du modèle
 
-![Résultats](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/cap7.png)
+<div align="center">
+  <img src="cap7.png" alt="Résultats" width="600">
+</div>
 
-![Résultats](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/cap10.png)
+<div align="center">
+  <img src="cap10.png" alt="Résultats" width="600">
+</div>
 
-![Résultats](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/CAP8.png)
+<div align="center">
+  <img src="CAP8.png" alt="Résultats" width="600">
+</div>
 
-![Résultats](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/CAP9.png)
+<div align="center">
+  <img src="CAP9.png" alt="Résultats" width="600">
+</div>
