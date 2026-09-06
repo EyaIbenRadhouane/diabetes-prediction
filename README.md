@@ -52,7 +52,7 @@ Iben Radhouane Eya
 
 ---
 
-## 🖥️ Interface de prédiction
+## Interface de prédiction
 
 <div align="center">
   <img src="CAP3.png" alt="Interface principale" width="600">
@@ -70,7 +70,7 @@ Iben Radhouane Eya
   <img src="cap6.png" alt="Prédiction" width="600">
 </div>
 
-## 📈 Résultats du modèle
+## Résultats du modèle
 
 <div align="center">
   <img src="cap7.png" alt="Résultats" width="600">
