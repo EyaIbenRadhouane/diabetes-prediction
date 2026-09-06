@@ -52,9 +52,11 @@ eya.ibenradhouane@polytechnicien.tn
 
 ### 🖥️ Interface de prédiction
 
-![Interface principale](./CAP3.png)
+![Interface principale](.diabetes-prediction
+/CAP3.png)
 
-![Interface de prédiction](./CAP4.png)
+![Interface de prédiction](.diabetes-prediction
+/CAP4.png)
 
 ![Formulaire de prédiction](./cap5.png)
 
