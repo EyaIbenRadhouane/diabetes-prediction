@@ -53,20 +53,20 @@ eya.ibenradhouane@polytechnicien.tn
 
 ## 🖥️ Interface de prédiction
 
-![Interface principale](./CAP3.png)
+![Interface principale](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/CAP3.png)
 
-![Interface de prédiction](./CAP4.png)
+![Interface de prédiction](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/CAP4.png)
 
-![Formulaire de prédiction](./cap5.png)
+![Formulaire](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/cap5.png)
 
-![Résultat de l'interface](./cap6.png)
+![Prédiction](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/cap6.png)
 
 ## 📈 Résultats du modèle
 
-![Résultats du modèle](./cap7.png)
+![Résultats](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/cap7.png)
 
-![Performance du modèle](./cap10.png)
+![Résultats](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/cap10.png)
 
-![Analyse des résultats](./CAP8.png)
+![Résultats](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/CAP8.png)
 
-![Résultats supplémentaires](./CAP9.png)
+![Résultats](https://raw.githubusercontent.com/EyaIbenRadhouane/diabetes-prediction/main/CAP9.png)
